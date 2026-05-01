@@ -1,0 +1,20 @@
+body{
+    background: #141414;
+    color: #FFFFF0;
+}
+
+ul{
+    padding: 0;
+}
+
+a{
+    color:aqua;
+}
+
+.main-container{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
