@@ -18,3 +18,11 @@ a{
     justify-content: center;
     align-items: center;
 }
+
+.post-text{
+    display: inline-block;
+    text-align: left;
+    background: black;
+    border-radius: 40px;
+    padding: 40px;
+}
